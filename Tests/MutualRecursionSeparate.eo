@@ -1,0 +1,9 @@
+[] > Class1
+  # instance Class2
+  [n] > Class1_method
+    Class2_method(1)
+
+[] > Class1
+  # instance Class1
+  [n] > Class2_method
+    Class1_method(1)

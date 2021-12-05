@@ -1,0 +1,8 @@
+# basic eolang implementation
+[child name] > A
+    [] > name
+        stdout
+        "This is class A \n"
+[name B_attr] > B
+[name C_attr] > C
+[B_attr C_attr D_attr] > D 
